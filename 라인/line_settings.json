@@ -1,0 +1,18 @@
+{
+  "SPEED": 10,
+  "KP x10": 10,
+  "ROI top %": 86,
+  "FAR bottom %": 95,
+  "THRESH(0=auto)": 193,
+  "MIN AREA": 1207,
+  "DARK LINE": 0,
+  "COLOR DIFF": 66,
+  "BLOCK %": 53,
+  "AVOID": 1,
+  "T_OUT x0.1s": 0,
+  "T_PASS x0.1s": 0,
+  "T_BACK x0.1s": 0,
+  "WIDTH px(0=off)": 69,
+  "WIDTH TOL %": 46,
+  "TAPER %": 41
+}
